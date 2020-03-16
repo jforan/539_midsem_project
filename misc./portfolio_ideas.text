@@ -1,0 +1,62 @@
+* Homepage v2
+
+  10.A parallax image.
+
+  background-attachment: fixed; /* Parallax effect */
+  background-position: center;  /* Parallax effect */
+  background-repeat: no-repeat; /* Parallax effect */
+  background-size: cover;       /* Parallax effect */
+  height: 400px;                /* Parallax effect */
+
+
+_________________________________________
+
+* Projects
+  - SONOS
+  - NIELSEN
+  - 622
+  - Coding
+
+6. A component that uses grid - Copying code from previous assignment will only be partial credit.
+8. At least one CSS generated animation that is NOT part of the gallery. Make sure to write a media query to turn it off as well.
+
+_________________________________________
+
+* About Me
+
+5. A gallery with at least nine distinct images. These images should use filters and pseudo-classes to animate the gallery.
+9. A working contact form.
+
+11.A keyboard accessible flip card using just CSS
+
+_________________________________________
+
+* Resume
+13.One of the techniques listed here:
+https://cssnewbie.com/10-beautiful-css-text-effects/#.XYbceJNKjOR
+      ?? text rotation ??
+
+_________________________________________
+
+* Under construction
+
+Cat pic
+
+_________________________________________
+
+MISC.
+
+
+PAGES
+Submit a (minimum four page) site. ​All of the pages must use a common header, footer, and navigation across all pages.
+ -- 12. Google Analytics on all four pages.
+ -- With the exception of a landing page (if you decided to have one), each page must have a minimum of three paragraphs of text or five images or a combination of images and text. This is a minimum. If you are in doubt, add more.
+
+NAV BAR
+The navigation must clearly display the current page ​within the nav element. (I should be able to tell which page I am on based on the styling of the link to the current page. Don’t forget, that color alone should not be used to convey meaning.)
+ -- 7. A component that uses flexbox - Copying code from previous assignment will only be partial credit.
+
+
+JUMP TO CONTENT
+Each page should contain a main section that can be reached using a ​Jump to Content​ option with the first tab on the page. Main must be after the navigation.
+
