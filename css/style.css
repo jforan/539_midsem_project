@@ -85,6 +85,7 @@ video{
   width: 100%     !important;
   height: auto   !important;
   filter: brightness(.3);
+  background-color: black;
 }
 
 .intro video{
@@ -372,7 +373,6 @@ video{
 footer{
   /* background-color: #eee; */
   color: #5e5e5e;
-  font-size: 10px;
   padding-top: 20px;
   text-align: center;
   display: block;
@@ -380,7 +380,7 @@ footer{
 }
 
 footer p{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 footer img{
@@ -392,10 +392,6 @@ footer img{
 
 
 
-
-
-
-
 /* tablet */
 @media screen and (min-width:680px) {
   /* navigation tablet*/
@@ -404,6 +400,7 @@ footer img{
     flex-direction: row;
     justify-content: space-around;
   }
+
 
   /* homepage tablet */
   .intro h1{
@@ -585,18 +582,8 @@ footer img{
 
 
 
-
-
 /* desktop */
 @media screen and (min-width: 1000px){
-  /* .resume-grid{
-    grid-template-rows: 100px 150px 150px 150px;
-    grid-template-columns:
-  } */
-
-  /* .resume-grid img{
-    width: 70%;
-  } */
 
 
 }
