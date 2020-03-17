@@ -113,6 +113,10 @@ video{
     top:40%;
 }
 
+.intro {
+  background-color: black;
+}
+
 .about-me{
   display: block;
   text-align: center;
