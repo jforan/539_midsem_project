@@ -95,6 +95,7 @@ video{
 .intro video{
     position:relative;
     z-index:0;
+    background-color: black;
 }
 
 .intro-img{
